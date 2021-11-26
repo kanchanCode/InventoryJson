@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tu+7SOcDm23+q3Vm9Di30880/tXSPMW+uW8tX3ovNUZicYkG4RyJy7q1ZH0T+L7eQ9F/G57zkTcBxQg2w3JPQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\Assignment1_Day3\\jsonReader\\JsonFileReader-master\\JsonReader\\JsonReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
